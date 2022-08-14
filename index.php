@@ -21,7 +21,9 @@
     ?>
 
     <!--Bootstrap para darle estilo a un boton-->
+    <Button type="button" class="btn btn-dark">Click me!</Button>
     <Button type="button" class="btn btn-success">Click me!</Button>
+    <Button type="button" class="btn btn-primary">Click me!</Button>
 
 <!--crear una dependencia hacia el archivo con el pie de pagina
 si no lo encuentra la pagina truena, diferencia con include-->
