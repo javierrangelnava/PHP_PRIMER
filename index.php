@@ -24,6 +24,7 @@
     <Button type="button" class="btn btn-dark">Click me!</Button>
     <Button type="button" class="btn btn-success">Click me!</Button>
     <Button type="button" class="btn btn-primary">Click me!</Button>
+    <a href="https://www.heroku.com" class="btn btn-danger" target="_blanck">Heroku.com</a>
 
 <!--crear una dependencia hacia el archivo con el pie de pagina
 si no lo encuentra la pagina truena, diferencia con include-->
